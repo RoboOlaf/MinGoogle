@@ -1,0 +1,309 @@
+body {
+    font-size: 14px;
+    font-family: arial, sans-serif;
+    color: #202124;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.blokkene {
+    flex-shrink: 0;
+    box-sizing: border-box;
+}
+
+.Ne6 {
+    display: flex;
+    align-items: center;
+    padding: 6px;
+}
+
+.n1x {
+    height: 60px;
+}
+
+.L3e {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.LLD {
+    min-height: 150px;
+    max-height: 290px;
+    height: 560px;
+}
+
+.yr1 {
+    min-height: 92px;
+}
+
+.om7 {
+    padding: 20px;
+}
+
+.ikr {
+    max-height: 160px;
+}
+
+.qarstb {
+    flex-grow: 1;
+}
+
+.c93 {
+    background: #f2f2f2;
+}
+
+.LX3 {
+    display: inline-block;
+    flex-grow: 1;
+}
+
+.gb_pa.gb_Sd {
+    min-width: initial;
+    min-width: auto;
+}
+
+.gb_Va:not(.gb_Bd) {
+    font: 13px/27px Roboto,RobotoDraft,Arial,sans-serif;
+    z-index: 986;
+}
+
+.gb_Sd {
+    height: 48px;
+}
+
+.gb_pa {
+    color: black;
+    
+}
+
+.gb2 {
+    display: inline-block;
+    padding-right: 15px;
+}
+
+.gb_Sd .gb_Qd {
+    float: right;
+    padding-left: 32px;
+}
+
+.gb_Qd {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 48px;
+    line-height: normal;
+    padding: 0 4px;
+    padding-left: 30px;
+    -webkit-flex: 0 0 auto;
+    flex: 0 0 auto;
+    -webkit-box-pack: flex-end;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+}
+
+.gb_Ed {
+    height: 48px;
+    vertical-align: middle;
+    white-space: nowrap;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-user-select: none;
+}
+
+#homepage {
+    font-size: small;
+    margin-bottom: 24px;
+}
+
+.vcV {
+    text-align: center;
+}
+
+#SIv {
+    color: #3c4043;
+    display: inline-block;
+    line-height: 28px;
+}
+
+.Engelsk {
+    text-decoration: none;
+}
+
+.uU7 {
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: #70757a;
+}
+
+.Kxw {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.SSw {
+    padding: 0 20px;
+}
+
+.Agh {
+    justify-content: flex-start;
+    min-width: 30%;
+    order: 1;
+}
+
+.ssO {
+    order: 2;
+}
+
+.iTj {
+    justify-content: flex-end;
+    min-width: 30%;
+    order: 3;
+}
+
+.pHi {
+    display: block;
+    padding: 15px;
+    white-space: nowrap;
+}
+
+a.pHi {
+    color: #70757a;
+}
+
+a {
+    text-decoration: none;
+}
+
+.LS8 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.lnX {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+    object-position: center bottom;
+    width: auto;
+}
+
+.k1z {
+    height: 100%;
+    margin-top: auto;
+}
+
+.rSk {
+    max-height: 92px;
+    position: relative;
+}
+
+.A8S {
+    position: relative;
+    margin: 0 auto;
+    padding-top: 6px;
+    width: auto;
+    max-width: 584px;
+}
+
+.RNN {
+    background-color: #fff;
+    display: flex;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    z-index: 3;
+    height: 44px;
+    margin: 0 auto;
+    width: auto;
+    max-width: 584px;
+}
+
+.Sdk {
+    flex: 1;
+    display: flex;
+    padding: 5px 8px 0 14px;
+}
+
+.ibl {
+    display: flex;
+    align-items: center;
+    padding-right: 13px;
+    margin-top: -5px;
+}
+
+.a4b {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+}
+
+.dRY {
+    display: flex;
+    flex: 0 0 auto;
+    margin-top: -5px;
+    align-self: stretch;
+    flex-direction: row;
+}
+
+.CcA {
+    margin: auto;
+}
+
+.mg {
+    width: 30px;
+}
+
+.Yac {
+    color: transparent;
+    flex: 100%;
+    white-space: pre;
+    height: 34px;
+}
+
+.gLF  {
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding: 0;
+    color: rgba(0,0,0,.87);
+    word-wrap: break-word;
+    outline: none;
+    display: flex;
+    flex: 100%;
+    -webkit-tap-highlight-color: transparent;
+    margin-top: -37px;
+    height: 34px;
+    font-size: 16px;
+}
+
+.FPd {
+    padding-top: 18px;
+    top: 53px;
+    z-index: 0;
+}
+
+.lJ9 {
+    height: 70px;
+}
+
+.gNO {
+
+}
+
+.RNm {
+
+}
