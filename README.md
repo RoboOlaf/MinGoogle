@@ -1,7 +1,7 @@
-# Prosjekt-001 :Survey Form
+# Prosjekt-VSC1 :Min_Google
 
 ## Beskrivelse
-Prosjekt har som mål å lage spørreskjema innen html og css.
+Prosjekt har som mål å lage Google med html og css.
 
 ## Problemstilling
 
